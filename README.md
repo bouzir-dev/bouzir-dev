@@ -63,5 +63,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouzir-dev)](https://github.com/anuraghazra/github-readme-stats)
+ -->

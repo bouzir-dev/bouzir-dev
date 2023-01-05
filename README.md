@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📫 How to reach me bouzir.khalil9@gmail.com.
 
-- 📄 Know about my experiences in my <a target="_blank" href="https://drive.google.com/file/d/1tOsZvGti0mlJt_ko3zt7AyCvUp1P6I40/view?usp=sharing">resume</a>.
+- 📄 Know about my experiences in my <a target="_blank" href="https://drive.google.com/file/d/1m0PocPx8gqRBU5aRkTjyqyMRctcAzdHs/view?usp=sharing">resume</a>.
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -61,3 +61,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> 
   <a href="https://www.rabbitmq.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/52efcb7f1ba0a82b322c4d1eb8d33ebe886627b405013ed2f1d1c3cf818abbeb/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7261626269746d712f7261626269746d712d69636f6e2e737667" alt="rabbitMQ" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" style="max-width: 100%;"> </a>
 </div>
+
+---
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouzir-dev)](https://github.com/anuraghazra/github-readme-stats)

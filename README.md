@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 📫 How to reach me bouzir.khalil9@gmail.com.
 
-- 📄 Know about my experiences in my <a target="_blank" href="https://drive.google.com/file/d/1m0PocPx8gqRBU5aRkTjyqyMRctcAzdHs/view?usp=sharing">resume</a>.
+- 📄 Know about my experiences in my <a target="_blank" href="https://drive.google.com/file/d/1LURX8904pblpc1kuoEL8oa9VbqsjaI1k/view?usp=sharing">resume</a>.
 
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -18,7 +18,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  DevOps junior enthusiast from Tunisia 🇹🇳 .
 
 
-- 🔭  I’m currently working on DevOps projects with Jenkins, you can find more projects on my <a src="https://www.upwork.com/freelancers/~01ae30f9a8d8a5cbd4 ">upwork</a>.
+- 🔭  I’m currently working on DevOps projects with Jenkins, you can find more projects on my <a target="_blank" href="https://www.upwork.com/freelancers/~01ae30f9a8d8a5cbd4">Upwork</a>.
 
 - 🌱 I’m currently learning Iaac (Terraform) and kubernetes.
 
